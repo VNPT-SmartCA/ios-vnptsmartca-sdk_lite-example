@@ -1,3 +1,6 @@
+Tải SDK theo đường dẫn sau 
+https://github.com/VNPT-SmartCA/ios-vnptsmartca-sdk_lite-example/releases
+
 Lưu ý trước khi chạy cập nhật **đúng tham số clientId, clientSecret** đã được cấp qua email
 
 Xem hướng dẫn tại đây: 
